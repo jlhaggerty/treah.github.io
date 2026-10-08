@@ -1,0 +1,38 @@
+/*   
+Theme Name: Treah's Theme
+Theme URI: 
+Description: Treah's Theme
+Author: Treah Haggerty
+Author URI: 
+Version: 1.0
+*/
+
+/* CSS Style Sheet */
+
+/* Body */
+
+body 		{font-family: Arial, Helvetica, sans-serif; font-size:12px; text-decoration: none; background-color:#FFFFFF; color:#6E707A; }
+#posts		{width: 740px; margin-left: auto; margin-right: auto; text-align: left; }
+#footer		{font-family: Arial, helvetica, sans-serif; font-size: 12px; text-decoration: none; text-align: center; }
+.alignright 	{float: right; }
+.alignleft 	{float: left; }
+
+
+/* links */
+
+a 		{color: #B8AFBA; text-decoration: none;}
+a:hover 	{color: #6E707A; text-decoration: none;}
+a:visited 	{color: #B8AFBA; text-decoration: none;}
+a:active 	{color: #B8AFBA; text-decoration: none;}
+a img           {border:0;}
+
+
+H1 {text-align:center;font-size:40px;text-transform:uppercase}
+H2 {text-align:center;font-size:20px;text-transform:uppercase}
+H3 {text-align:center;font-size:14px;text-transform:uppercase}
+H4 {text-align:justify;font-size:14px;margin-left:25%; margin-right:25%}
+
+/* Table */
+html, body {
+text-align: center;
+}
